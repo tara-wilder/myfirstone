@@ -1,0 +1,85 @@
+# Course Resources
+
+## Textbook, Readings, and Canvas Site {#sec-textbook}
+
+**Textbook (Required)** The required textbook for this class is:
+
+Vepraskas, M.J., & Craft, C.B. (Eds.). (2016). Wetland Soils: Genesis, Hydrology, Landscapes, and Classification, Second Edition (2nd ed.). CRC Press. https://doi.org/10.1201/b18996
+
+This text is available for free to you digitally if you are either on campus or connected via VPN (accessing through UMN) - you can access and download the chapters through:
+
+-  [Taylor and Francis Group Publishing](https://www.taylorfrancis.com/books/edit/10.1201/b18996/wetland-soils-michael-vepraskas-christopher-craft)
+
+- [UMN Libraries](https://primo.lib.umn.edu/discovery/search?query=any,contains,wetland%20soils%20vepraskas&tab=Everything&search_scope=TwinCitiesCampus_and_CI&sortby=date_d&vid=01UMN_INST:TWINCITIES&facet=frbrgroupid,include,9080023117238733320&lang=en&offset=0)
+
+**Field Book for Describing and Sampling Soils (Required - FREE BUT MUST ORDER YOURSELF)**
+
+In addition to Vepraskas and Craft (2016), we will also be using the USDA-NRCS Field Book for Describing and Sampling Soils. You can download it as a pdf, but because we will be using this in the field, ordering a physical copy is ideal. Everyone needs their own copy; it is FREE, but you must order yourself from USDA-NRCS as follows:
+
+- Go to the [Field Book for Describing and Sampling Soils 4.0 page](https://nrcspad.sc.egov.usda.gov/DistributionCenter/product.aspx?ProductID=1797) of the USDA-NRCS Distribution Center. 
+
+- Click "Add to Basket"
+
+- Click "Checkout" _(don't worry it's free!)_
+
+- Unless you already have a NRCS Customer ID for some reason, you will click "Next" and this will prompt you to enter your information and mailing address to set up an account. Then click "Next".
+
+- You will then be assigned a Customer ID (the top row of the table); save this for future reference. You should be able to click "Submit Order". 
+
+- A physical copy of the book will arrive at the mailing address you entered, free of charge.
+
+**Textbook (Recommended)** If you have not taken a Basic Soil Science course or are new to Soil Science you may consider getting the classic Brady and Weil reference "Nature and Properties of Soils".
+
+You can get used versions of the current edition (15th) for ~$60-70 or previous editions for even cheaper:
+
+- [Nature and Properties of Soils, 1104 pages; Amazon](https://www.amazon.com/Nature-Properties-Soils-15th/dp/0133254488)
+
+There is also and abridged version of this book "Elements of the Nature and Properties of Soils", which is now on the 4th edition:
+
+- [Elements of the Nature and Properties of Soils, 768 pages; Amazon](https://www.amazon.com/Elements-Nature-Properties-Soils-4th/dp/0133254593). Previous editions of this book are even cheaper.
+
+
+**Readings (Required & Recommended)** Any additional required or recommended readings will be posted to the course Canvas site each week.
+
+**Course Canvas Site:** Lecture notes and other course materials will be available on the class website through Canvas. If you are registered for the class, you have automatically been given access privileges to the SOIL/ESPM 5555 Canvas site. There is a single Canvas site for both courses listed under ESPM 5555.
+
+::: callout-tip
+## Canvas Access
+
+-   Via myU portal: Go to myU Portal page at <http://myu.umn.edu>, login with your Internet ID, and click on the Key Links tab. Click on Canvas in the dropdown menu.
+
+-   Via Canvas server: Go to <http://canvas.umn.edu> and login there with your Internet ID. Once logged in, you will be able to see the link to sites you have access to.
+:::
+
+## Class Discord
+
+We will be setting up a class Discord channel that will help facilitate rapid communication for our field sessions (without sharing phone numbers) as well as for peer assistance and communication. You can join the class Discord server using the link here:
+[https://discord.gg/tZj8EAmh](https://discord.gg/tZj8EAmh)
+
+I recommend adding the Discord app to your phone and turning notifications on (at least during the semester).
+
+## Other Resources
+
+Minnesota Board of Water and Soil Resources (BWSR) [Wetland Delineation Guidance and Resources](https://bwsr.state.mn.us/delineation-guidance-resources)
+
+Minnesota Board of Water and Soil Resources (BWSR) [Wetland Functional Assessment](https://bwsr.state.mn.us/wetland-functional-assessment)
+
+Minnesota Board of Water and Soil Resources (BWSR) [Delineation Manuals](https://bwsr.state.mn.us/delineation-manuals)
+
+Minnesota Board of Water and Soil Resources (BWSR) [Hydrology and Antecedent Precipitation](Minnesota Board of Water and Soil Resources (BWSR) [Delineation Manuals](https://bwsr.state.mn.us/delineation-manuals)
+
+Minnesota Department of Transportation Project Development: [Wetlands Process](https://www.dot.state.mn.us/project-development/subject-guidance/wetlands/process.html)
+
+Minnesota Department of Natural Resources State Climatology Office: [Wetland Delineation Precipitation Data Retrieval from a Gridded Database](https://climateapps.dnr.state.mn.us/gridded_data/precip/wetland/wetland.asp)
+
+US Army Corps of Engineers (USACE) [Wetland Delineation Manual and Regional Supplements](https://www.usace.army.mil/Missions/Civil-Works/Regulatory-Program-and-Permits/reg_supp/)
+
+## Recommended Habits for Success in this Class
+
+Regular participation is key in this course! 
+
+Course materials will be posted at least one week in advance, so you are free to work on a schedule that works best for you. If you engage with all of the lecture and lecture companion materials, and attend required lab sessions, you will be very familiar with the material and should be successful in the class. 
+
+Come to class prepared to participate! This is a graduate level class and will challenge all of us in a positive way. The more you engage, the more you will get out of the course! I really look forward to meeting and working with you. 
+
+**You are encouraged to ask any and all questions - even the "stupid" ones! (P.S. There are no stupid questions ;).**

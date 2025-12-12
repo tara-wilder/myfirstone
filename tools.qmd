@@ -1,0 +1,49 @@
+---
+title: "Tools"
+description: "What to install, why it matters, and how we’ll use these tools in SOIL/ESPM 5555."
+---
+
+> **TL;DR for Day 1**  
+> Please arrive with everything in the checklist below installed and working. Bring your laptop.
+
+## Day 1 setup checklist
+
+- **[R (≥ 4.3) and R Studio Desktop](https://posit.co/download/rstudio-desktop/)** — base language for data analysis in this class and IDE for R. 
+- **Create a [GitHub](https://github.com) account** with your umn.edu email address. Additionally, download the [GitHub Desktop](https://desktop.github.com/download/) app.
+- **[Zotero](https://www.zotero.org)** + **[Zotero Connector](https://www.zotero.org/download/connectors)** (browser) — reference manager & PDF annotation. **IMPORTANT: create a Zotero account with your umn.edu email address. Download the Zotero Desktop app.**
+- **At least one LLM account** (your choice) — e.g., OpenAI ChatGPT, Anthropic Claude, Google Gemini, Microsoft Co-Pilot. Free tiers are fine. UMN offers enterprise level access to [Google Gemini](https://it.umn.edu/services-technologies/gemini-enterprise-grade-data-protection) and [Microsoft Co-Pilot](https://it.umn.edu/services-technologies/copilot-enterprise-data-protection) (which is built on GPT).
+- **[QGIS](https://qgis.org) (3.x)** — open-source GIS.  
+- *(Optional but useful)* **[VS Code - Mac and PC](https://code.visualstudio.com/download) or [BBEdit - Mac only](https://www.barebones.com/products/bbedit/download.html)** (for raw text editing), **Obsidian** (for a personal knowledge base).
+
+## What these tools are (and why we use them)
+
+### R
+R is a programming language designed for **data analysis, statistics, and graphics**. We’ll use it to wrangle messy datasets, analyze experiments, and make publication-quality figures. You will write clean, **reproducible** code so your work can be re-run months later.
+
+- Core packages we’ll use: **tidyverse** (data wrangling, plotting), **sf** (vector geospatial), **terra** (rasters), **janitor** (clean tables), **here** (project paths).
+
+### RStudio (Posit)
+An IDE that makes R friendlier: script editor, console, plots, environment pane, projects, Git integration, and **Quarto** authoring. Think of it as “mission control” for the class.
+
+### Zotero (+ Connector)
+Your **second brain for papers**. We’ll use Zotero to:
+- collect readings and PDFs,
+- **annotate** (highlights/notes),
+- export citations to Quarto,
+- keep a **reading audit trail** (see the Reading appendix).
+
+### QGIS
+We’ll use QGIS for quick exploratory mapping, geoprocessing, and cross-checking R outputs. If you’re new to GIS, QGIS gives you a visual entry point that complements R’s scripted workflows.
+
+### Large Language Models (LLMs)
+You’ll learn to use an LLM as a **reading companion, coding assistant, and writing aid**. We’ll practice **effective prompting** and **documentation of AI use** (see Writing & AI and Prompt Engineering appendices). Free tiers are sufficient.
+
+## How we’ll use this stack
+
+- **Reproducible analysis**: R + Quarto notebooks for labs & projects.
+- **Versioned projects**: Git/GitHub for collaboration and accountability.
+- **Reading workflow**: Zotero to annotate; export notes; connect to wiki citations.
+- **Geospatial**: QGIS for inspection; R for scripted pipelines.
+- **AI assistance**: LLMs for scaffolding ideas, debugging code, and generating *first-pass* outlines—**with clear attribution/logs**.
+
+> **Mindset**: You don’t have to be a “programmer” to succeed here, but you **cannot afford** to avoid computational tools. We will learn them together, step by step.

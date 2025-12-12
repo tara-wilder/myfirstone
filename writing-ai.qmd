@@ -1,0 +1,67 @@
+# On Writing in the Age of AI
+
+## Writing as thinking and learning
+
+Good writing **clarifies thought**. Writing is difficult because it forces us to confront our own thoughts, rationale, and reasoning. This is just one reason why writing is learning ([Zinsser, 1993](https://www.amazon.com/Writing-Learn-William-Zinsser/dp/0062720406),[Yan, 2020](https://eugeneyan.com/writing/reading-note-taking-writing/), [Ahrens, 2022](https://www.amazon.com/How-Take-Smart-Notes-Technique/dp/3982438802/ref=pd_lpo_d_sccl_2/145-4544999-0238419?pd_rd_w=eF10d&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=FAD6C8DH6E4B0VVSGD1D&pd_rd_wg=ZARKE&pd_rd_r=5596127d-8f67-447e-9ac8-db82ff46caba&pd_rd_i=3982438802&psc=1)). Good writing is a feedback loop of multiple processes - reading, drafting, reflecting, reading, drafting, revising, revising, revising, revising, reflecting, writing, etc. In this course, writing is not a last-minute wrapper; it will be an integrated part of what we do, how we integrate, and how we think. Some of the writing may be AI assisted - and some of that will be your own (in which I will ask you to turn in an audit trail of reading notes and comments on our class [textbook wiki](https://umn-soil-5555-wiki.org)).
+
+## What AI changes—and what it doesn’t
+
+- AI can help you **brainstorm, outline, critique, and rephrase**.  
+- AI cannot understand your specific field data, lab context, or instructor’s expectations unless **you** do.  
+- **You are responsible** for factual accuracy, citations, and integrity.
+
+> Our separate **AI Policy** covers boundaries (originality, attribution, and prohibited uses). This chapter focuses on practice.
+
+## AI: tools vs. foundations
+
+- **Foundation models** (e.g., general LLMs) learn broad patterns from massive data; **apps** (chatbots, copilots) wrap those models with UX and guardrails.  
+- You should **know the difference** well enough to evaluate reliability, bias, and when to escalate to a human expert.
+- We will use AI tools to **accelerate** thinking and learning—but not to *replace* reading, reasoning, or evidence.
+
+## Required AI use log (attach with any assignment submissions where AI was used)
+
+Include a brief section at the end of your assignment document as follows:
+
+```
+AI Use Log
+- Models: (e.g., GPT-5, Claude, Gemini)
+- Purpose(s): brainstorming, outline critique, code debugging, copyediting
+- Prompts (or gist): 
+- What I kept vs. discarded:
+- Verification steps (how I checked claims / code):
+- Date(s):
+```
+
+## A pragmatic workflow
+
+1. **Define the deliverable** (audience, purpose, constraints).  
+2. **Outline yourself**: produce a simple structure (thesis → sections → evidence).  
+3. **Draft 0 with AI** (optional): ask for a **skeletal** outline or a list of counterarguments.  
+4. **Write Draft 1 yourself**: fill sections using your results, figures, and citations.  
+5. **Targeted AI passes**:  
+   - “Point out unclear claims and missing evidence.”  
+   - “Suggest stronger topic sentences for each paragraph.”  
+   - “Propose 3 alternative figure captions grounded in the text.”  
+6. **Fact-check & code-check**: run your analysis; verify numbers and references.  
+7. **Polish**: style, transitions, title, abstract.
+
+## On “prompt engineering” for writing
+
+Much of modern writing with AI is **asking better questions**. You’ll get better results by being explicit about **tone, audience, structure, constraints**, and **evaluation criteria** (see the Prompt Engineering appendix).
+
+## Citing AI influences
+
+When AI meaningfully shapes a paragraph or figure, treat it like any other tool or collaborator: **acknowledge it** in the AI Use Log and ensure all **sources are properly cited**.
+
+## Two podcast perspectives to consider
+
+- On study craft and deliberate practice in the LLM era (and why “just reading” isn’t enough).  
+- On transforming prompts into better prompts and using AI to build a reusable memory system.
+
+*(See references for specific episodes.)*
+
+## References
+
+- Podcast episode (Spotify): <https://open.spotify.com/episode/4xlobVHitjNAyNfE2Qrkz7>  
+- Podcast episode (Spotify): <https://open.spotify.com/episode/1VhdJkZHGMe9rqWrk3eO0i>
+- Course Prompt Engineering appendix (this e-book).

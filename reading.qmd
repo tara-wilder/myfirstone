@@ -1,0 +1,52 @@
+# On Reading and Learning (Slowly)
+
+## Why slow reading?
+
+Rushing through technical material is a great way to *feel* informed and stay confused. We’ll practice **deliberate** reading: making the author’s argument visible, mapping terms, exploring connections, checking examples, and capturing novel questions.
+
+## Two anchors
+
+1. **Adler & Van Doren (1972), _How to Read a Book_.**  
+   Key moves we’ll use:
+   - **Inspectional reading** (skim to map the terrain; glossary, headings, figures).  
+   - **Analytical reading** (distill the thesis; outline; define terms; test with examples).  
+   - **Syntopical reading** (compare and synthesize multiple sources on the same idea).
+
+2. [**Andy Matuschak’s learning practice (study session with Dwarkesh Patel).**](https://www.youtube.com/watch?v=OFuu4pesKf0)  
+   Techniques we’ll borrow:
+   - Turn confusions into **explicit questions** (even before you know the answer).
+   - Build **retrieval prompts** while you read (spaced repetition), not after.
+   - Periodically **recite back** the argument in your own words to find gaps in understanding.  
+   *(See video link in References.)*
+
+## Your reading audit trail (what you show)
+
+Every assigned reading yields a **short artifact** you’ll submit with labs:
+
+- **Zotero annotations**: highlights + marginal notes (exported).  
+- **Outline** (bulleted): the section’s major declarative statements, evidence, definitions, and at least **3 questions** you generated.  
+- **Concept map** (optional): terms and relationships.  
+- **Two retrieval prompts** (Q→A pairs) you could review later.
+
+> **Acceptable formats:**  
+> - PDF with visible annotations, **or**  
+> - Markdown export (Zotero → Notes → Copy as Markdown), **or**  
+> - Screenshot or picture series (if reading on paper) plus typed notes.
+
+## How AI fits into reading
+
+- Use an LLM to **clarify a passage** or **generate alternative examples**.  
+- Do **not** accept paraphrases as understanding; respond in your own words and link back to the text.  
+- Log AI assistance in your audit trail: model, prompt, and what you kept or discarded.
+
+## Grading rubric (lightweight)
+
+- **Complete trail** (annotations + outline + questions + prompts).  
+- **Evidence of thinking** (your words, not just highlights).  
+- **Specificity** (terms defined, claims stated; questions are concrete).  
+- **Integrity** (AI use documented clearly).
+
+## References
+
+- Mortimer J. Adler & Charles Van Doren (1972). _How to Read a Book_.  
+- Andy Matuschak & Dwarkesh Patel, **“Studying with Dwarkesh Patel – Introduction to Quantum Mechanics (Griffiths)”** (YouTube). <https://www.youtube.com/watch?v=OFuu4pesKf0>
