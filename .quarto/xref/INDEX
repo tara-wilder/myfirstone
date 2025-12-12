@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "4d4c3eff"
+  },
+  "intro.qmd": {
+    "intro.html": "dffea123"
+  },
+  "course-resources.qmd": {
+    "course-resources.html": "627f17a8"
+  },
+  "field-sessions.qmd": {
+    "field-sessions.html": "8d2f023e"
+  },
+  "assignments-points-grades.qmd": {
+    "assignments-points-grades.html": "bb582d90"
+  },
+  "makeup-policies.qmd": {
+    "makeup-policies.html": "8fbe6d9d"
+  },
+  "fine-print.qmd": {
+    "fine-print.html": "69dc4a0b"
+  },
+  "ai-policy.qmd": {
+    "ai-policy.html": "f01bab23"
+  },
+  "class-schedule.qmd": {
+    "class-schedule.html": "7f72365d"
+  },
+  "further-opportunities.qmd": {
+    "further-opportunities.html": "8f31117d"
+  },
+  "tools.qmd": {
+    "tools.html": "228a365d"
+  },
+  "prompt-engineering.qmd": {
+    "prompt-engineering.html": "adf57d6f"
+  },
+  "philosophy.qmd": {
+    "philosophy.html": "fc5ee4b1"
+  },
+  "reading.qmd": {
+    "reading.html": "bfe4f1c2"
+  },
+  "writing-ai.qmd": {
+    "writing-ai.html": "e321a1e4"
+  },
+  "thinking-5yo.qmd": {
+    "thinking-5yo.html": "c5cfa181"
+  }
+}
