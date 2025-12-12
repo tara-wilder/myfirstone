@@ -38,5 +38,35 @@
     "crumbs": [
       "Preface"
     ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Learning Outcomes\nHello, this is an edit that Tara added and she played with GitHub. :3\nWetlands are some of the most critical landscapes on earth and perform a staggering array of ecosystem services. Understanding the complex biological, chemical and physical processes that occur in wetlands is critical to conserving and restoring their function, and soil lies at the center of all of those processes. In this course we will study wetland soils through a lens that is both highly mechanistic and wide-ranging, applying basic principles and theory to important applications such as wetland delineation, hydric soil identification, and understanding the functioning of specific archetypal wetland systems in Minnesota and around the world. As home to some of the largest wetland complexes in the United States and a wide range of ecological conditions, Minnesota is one of the best places in the world to study wetland soils. My hope is that you come away from this course with a new understanding and appreciation for wetlands and wetland soils that integrates theory, field experiences, and practical application. I will also be pushing you to get out of your comfort zone, utilize AI tools and develop new skills in geospatial inquiry and model building, as well as to challenge you in both individual and group work.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#learning-outcomes",
+    "href": "intro.html#learning-outcomes",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Understand the mechanisms and physical/chemical/biological underpinnings of wetland soil processes.\nIdentify field indicators of hydric soils and apply those indicators to applications in wetland delineation.\nObtain and analyze digital hydrologic, geomorphic and ecological data in synthetic and sophisticated ways to better assess wetland dynamics and functions.\nUnderstand the significance of wetlands and wetland delineation in the regulatory environment.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#lecture-laboratory-and-learning-assessment-logistics",
+    "href": "intro.html#lecture-laboratory-and-learning-assessment-logistics",
+    "title": "1  Introduction",
+    "section": "Lecture, Laboratory, and Learning Assessment Logistics",
+    "text": "Lecture, Laboratory, and Learning Assessment Logistics\nLectures: Most weeks, lectures will meet in-person on Monday and Wednesdays.\nLaboratory: The laboratory session (3:00-6:00pm on Thursdays) will be used to conduct fieldwork, workshops and small group activities. See the course schedule for specifics. NOTE: not all Thursdays have required lab sessions.\nAssessment of Learning: Assessment of learning in this class will consist of individual and small group assignments and small projects, a field wetland delineation exercise (conducted as a small group), and a midterm and final exam.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   }
 ]
